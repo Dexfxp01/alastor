@@ -4,7 +4,7 @@ const ownerNumber = ["557598916699"]
 const OriginalOwner = '557598916699' 
 // mude para seu numero
 
-const menuimg = 'https://i.imgur.com/2KJfprdskY.jpg'
+const menuimg = 'https://i.imgur.com/2KJfprY.jpg'
 // Link da foto do menu
 
 const registeruser = false
