@@ -186,7 +186,7 @@ let mess = {
 const vcard = 'BEGIN:VCARD\n' 
 + 'VERSION:3.0\n' 
 + 'FN:Meu Chefe\n' 
-+ 'ORG: ;\n' 
++ 'ORG:Obanai;\n' 
 + 'TEL;type=CELL;type=VOICE;waid=557598916699:+55 75 9891-6699\n' 
 + 'END:VCARD'
 //vcard do propietário, mude os numeros de acordo com o formato que
